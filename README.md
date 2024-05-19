@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sophia, a computer engineering student at Texas A&M University.<br><br>Some fun facts :)<br>🗺️ I'm from Houston, Texas<br>💻 I'm interested in software development and artificial intelligence<br>✨ I'm a projects officer for the Aggie Coding Club, Web officer for the ENGR TA Organization, and a TA for CSCE 120<br>🎻 I play the piano and the violin, and I'm currently a violinist in the TAMU Chamber Orchestra<br>🖌️ I also enjoy drawing and painting 
+Hi, I'm Sophia, a computer engineering student at Texas A&M University.<br><br>Some fun facts :)<br>🗺️ I'm from Houston, Texas<br>💻 I'm interested in software development and artificial intelligence<br>✨ I'm a projects officer for the Aggie Coding Club, Web officer for the ENGR TA Organization, and a TA for CSCE 120<br>🎹 I play the piano and the violin, and I'm currently a violinist in the TAMU Chamber Orchestra<br>🖌️ I also enjoy drawing and painting 
 
 
 # 🌐 Socials:
