@@ -2,7 +2,7 @@
 Hi, I'm Sophia, a computer engineering student at Texas A&M University.<br><br>Some fun facts :)<br>🗺️ I'm from Houston, Texas<br>💻 I'm interested in software development and artificial intelligence<br>✨ I'm a projects officer for the Aggie Coding Club, Web officer for the ENGR TA Organization, and a TA for CSCE 120<br>🎻 I play the piano and the violin, and I'm currently a violinist in the TAMU Chamber Orchestra<br>🖌️ I also enjoy drawing and painting 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/portfolio-%23FF007F.svg?style=for-the-badge&logo=apachespark&logoColor=white)](https://sophiaphu.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sophiaaphu._) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sophiaphu/)
 
 # 💻 Tech Stack:
