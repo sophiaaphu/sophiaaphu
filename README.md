@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sophia, a computer engineering student at Texas A&M University.<br><br>Some fun facts about me :)<br>🗺️ I'm from Houston, Texas<br>💻 I'm interested in software development and artificial intelligence<br>✨ I'm a projects officer for the Aggie Coding Club, Web officer for the ENGR TA Organization, and a TA for CSCE 120<br>🎻 I play the piano and the violin, and I'm currently a violinist in the TAMU Chamber Orchestra<br>🖌️ I also enjoy drawing and painting 
+Hi, I'm Sophia, a computer engineering student at Texas A&M University.<br><br>Some fun facts :)<br>🗺️ I'm from Houston, Texas<br>💻 I'm interested in software development and artificial intelligence<br>✨ I'm a projects officer for the Aggie Coding Club, Web officer for the ENGR TA Organization, and a TA for CSCE 120<br>🎻 I play the piano and the violin, and I'm currently a violinist in the TAMU Chamber Orchestra<br>🖌️ I also enjoy drawing and painting 
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ Hi, I'm Sophia, a computer engineering student at Texas A&M University.<br><br>S
 ![](https://github-readme-stats.vercel.app/api?username=sophiaaphu&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sophiaaphu&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiaaphu&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
----
 [![](https://visitcount.itsvg.in/api?id=sophiaaphu&icon=7&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
