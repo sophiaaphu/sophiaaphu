@@ -1,13 +1,13 @@
 ## 💫 About Me
-Hi, I'm Sophia, a computer engineering student at Texas A&M University.<br><br>Some fun facts :)<br>🗺️ I'm from Houston, Texas<br>💻 I'm interested in software development and artificial intelligence and was a previous SWE intern at Uber<br>✨ I'm the projects chair for the Aggie Coding Club, President for the ENGR TA Organization, and a TA for CSCE 120<br>🎹 I play the piano and the violin, and I'm currently a violinist in the TAMU Chamber Orchestra<br>🖌️ I also enjoy drawing and painting 
+Hi, I'm Sophia, a computer engineering student at Texas A&M University.<br><br>Some fun facts :)<br>🌸 I'm from Houston, Texas<br>💗 I'm interested in software development and artificial intelligence and was a previous SWE intern at Uber<br>🌺 I'm the projects chair for the Aggie Coding Club, President for the ENGR TA Organization, and a TA for CSCE 120<br>🌹 I play the piano and the violin, and I'm currently a violinist in the TAMU Chamber Orchestra<br>🎀 I also enjoy drawing and painting 
 
-## 🌐 Socials
+## ✨ Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff6f91?style=for-the-badge&logo=apachespark&logoColor=white)](https://sophiaphu.com)
 [![Instagram](https://img.shields.io/badge/Instagram-ff4f81?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sophiaaphu._)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff5c8a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sophiaphu/)
 ![](https://komarev.com/ghpvc/?username=sophiaaphu&style=for-the-badge&color=ff6f91)
 
-## 💻 Tech Stack
+## 💫 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff8fab?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ff6f91?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-ff5c8a?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,7 +41,7 @@ Hi, I'm Sophia, a computer engineering student at Texas A&M University.<br><br>S
 ![AWS](https://img.shields.io/badge/AWS-ff6f91?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-ff5c8a?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-## 📊 GitHub Stats
+## ⭐ GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sophiaaphu&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiaaphu&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
