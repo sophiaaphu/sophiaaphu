@@ -42,7 +42,7 @@ Hi, I'm Sophia, a computer engineering student at Texas A&M University.<br><br>S
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-ff5c8a?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ## ⭐ GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sophiaaphu&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiaaphu&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats-fast.vercel.app/api?username=sophiaaphu&show_icons=true&hide_border=false&border_color=ff8fab&bg_color=fff0f6&title_color=ff5c8a&text_color=000000&icon_color=ff6f91)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sophiaaphu&layout=compact&hide_border=false&border_color=ff8fab&bg_color=fff0f6&title_color=ff5c8a&text_color=000000&icon_color=ff6f91)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
