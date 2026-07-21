@@ -1,5 +1,5 @@
 ## 💫 About Me
-Hi, I'm Sophia, a computer engineering student at Texas A&M University.<br><br>Some fun facts :)<br>🌸 I'm from Houston, Texas<br>💗 I'm interested in software development and artificial intelligence and was a previous SWE intern at Uber<br>🌺 I'm the projects chair for the Aggie Coding Club, President for the ENGR TA Organization, and a TA for CSCE 120<br>🌹 I play the piano and the violin, and I'm currently a violinist in the TAMU Chamber Orchestra<br>🎀 I also enjoy drawing and painting 
+Hi, I'm Sophia, a software engineer at Uber.<br><br>Some fun facts :)<br>🌸 I'm from Houston, Texas and currently live in the Bay Area<br>💗 I'm interested in software development and artificial intelligence and was a Computer Engineering Major at TAMU<br>🌺 During my time at tamu, I was the projects chair for the Aggie Coding Club, President for the ENGR TA Organization, and a TA for CSCE 120<br>🌹 I play the piano and the violin, and I was a violinist in the TAMU Chamber Orchestra<br>🎀 I also enjoy drawing and painting 
 
 ## ✨ Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff6f91?style=for-the-badge&logo=apachespark&logoColor=white)](https://sophiaphu.com)
